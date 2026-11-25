@@ -1,0 +1,18 @@
+CASE OMEGA - SIMULATED SERVER INFORMATION
+
+Case ID: OCH-2026-001
+Organization: OmegaCare Multispeciality Hospital
+Asset ID: A-01
+Hostname: HOSP-SRV-01
+Operating System: Windows Server 2022
+Incident Date: 20 November 2026
+Discovery Time: 09:30 AM IST
+
+Purpose:
+This file contains fictional server information prepared
+for an academic digital forensics investigation.
+
+Evidence Status:
+SIMULATED DATA - NOT COLLECTED FROM A REAL SERVER.
+
+No real hospital information or patient data is included.

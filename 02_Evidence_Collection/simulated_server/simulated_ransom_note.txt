@@ -1,0 +1,17 @@
+*** SIMULATED RANSOM NOTE ***
+
+CASE OMEGA - ACADEMIC EXERCISE
+
+Your files have been reported as inaccessible.
+
+This message is a fictional example created for a
+cybersecurity and digital forensics assignment.
+
+No files have been encrypted.
+No payment is requested.
+No real cyberattack has occurred.
+
+Evidence ID: E-01
+Case ID: OCH-2026-001
+
+*** END OF SIMULATED MESSAGE ***

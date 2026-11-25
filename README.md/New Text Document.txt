@@ -1,0 +1,67 @@
+
+# CASE OMEGA
+## Digital Forensic Investigation of a Ransomware Attack on a Healthcare Network
+
+**Assignment:** Unit 3 – Investigation of Cyber Crimes
+
+**Case ID:** OCH-2026-001
+
+**Organization:** OmegaCare Multispeciality Hospital
+
+**Investigation Type:** Simulated Digital Forensic Investigation
+
+---
+
+## 1. Project Overview
+
+Case Omega is an academic digital forensics project that
+simulates a ransomware incident affecting a fictional
+healthcare organization.
+
+The project demonstrates the end-to-end digital forensic
+investigation process, including:
+
+- First responder procedures
+- Crime scene documentation
+- Digital evidence identification
+- Evidence acquisition
+- SHA-256 hash verification
+- Chain of custody
+- Malware behavior analysis
+- Attack timeline reconstruction
+- Legal and technical investigation reporting
+
+## 2. Project Objectives
+
+1. Understand digital forensic investigation procedures.
+2. Demonstrate evidence preservation and integrity.
+3. Analyze simulated ransomware behavior safely.
+4. Reconstruct a fictional cyberattack timeline.
+5. Prepare a professional forensic investigation report.
+
+## 3. Tools and Technologies
+
+- Python
+- FTK Imager
+- SHA-256
+- Visual Studio Code
+- GitHub
+- GitHub Actions
+- diagrams.net
+
+## 4. Investigation Disclaimer
+
+This is a fictional academic simulation.
+
+No real hospital systems, patient information,
+or unauthorized computer resources are involved.
+
+The ransomware simulator is designed for safe
+educational demonstration and does not encrypt
+or delete files.
+
+## 5. Project Status
+
+Project setup initiated.
+Investigation evidence and findings will be added
+as the practical phases are completed.

@@ -1,0 +1,7 @@
+﻿timestamp,event_id,hostname,event_type,description,source,evidence_status
+2026-11-20 08:45:00,EVT-001,HOSP-SRV-01,LOGIN,User login recorded in the fictional scenario,Windows Security Log,Synthetic
+2026-11-20 08:55:00,EVT-002,HOSP-SRV-01,FILE_CREATED,New demonstration file creation event,Windows File System,Synthetic
+2026-11-20 09:05:00,EVT-003,HOSP-SRV-01,USB_INSERTION,Removable USB device connected in the fictional scenario,Windows Device Log,Synthetic
+2026-11-20 09:12:00,EVT-004,HOSP-SRV-01,OUTBOUND_CONNECTION,Unusual outbound connection represented in the fictional scenario,Firewall Log,Synthetic
+2026-11-20 09:20:00,EVT-005,HOSP-SRV-01,FILE_MODIFICATION,File modification activity represented in the fictional scenario,Windows File System,Synthetic
+2026-11-20 09:30:00,EVT-006,HOSP-SRV-01,INCIDENT_REPORTED,Incident reported to the response team,Incident Report,Synthetic

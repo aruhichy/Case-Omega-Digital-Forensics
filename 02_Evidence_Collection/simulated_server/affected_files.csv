@@ -1,0 +1,5 @@
+file_name,file_type,reported_status,asset_id
+hospital_records_demo.txt,TXT,Simulated_Inaccessible,A-01
+staff_schedule_demo.csv,CSV,Simulated_Inaccessible,A-01
+department_report_demo.txt,TXT,Simulated_Inaccessible,A-01
+backup_status_demo.txt,TXT,Simulated_Inaccessible,A-01

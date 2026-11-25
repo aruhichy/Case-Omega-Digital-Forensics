@@ -1,0 +1,6 @@
+
+Case_ID,Evidence_ID,Evidence_Description,Source,Collector,Date_Time_IST,Storage_Location,Transfer_Status,Remarks
+OCH-2026-001,E-01,Simulated server information,server_information.txt,Student Investigator,2026-11-24 17:00,02_Evidence_Collection/simulated_server,Not transferred,Academic simulation
+OCH-2026-001,E-02,Simulated ransom note,simulated_ransom_note.txt,Student Investigator,2026-11-24 17:00,02_Evidence_Collection/simulated_server,Not transferred,Academic simulation
+OCH-2026-001,E-03,Fictional affected-file records,affected_files.csv,Student Investigator,2026-11-24 17:00,02_Evidence_Collection/simulated_server,Not transferred,Academic simulation
+OCH-2026-001,E-04,Synthetic server event records,server_events.csv,Student Investigator,2026-11-24 17:00,02_Evidence_Collection/simulated_server,Not transferred,Academic simulation

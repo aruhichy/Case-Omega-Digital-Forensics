@@ -1,0 +1,27 @@
+CASE OMEGA - EVIDENCE HASH MANIFEST
+=======================================================
+Case ID: OCH-2026-001
+Evidence ID: E-01
+Evidence Type: Simulated Server Dataset
+Hash Algorithm: SHA-256
+Generated At: 2026-11-24T18:48:01+05:30
+Evidence Source: simulated_server/
+
+Filename: server_information.txt
+Size: 510 bytes
+SHA-256: 9a5710480fec01d1fe002dceb7451dd883443e9e213e053fdf5e9eb8fed1948d
+-------------------------------------------------------
+Filename: simulated_ransom_note.txt
+Size: 389 bytes
+SHA-256: 96cd3b541b098d7266f76012bf4a7463d6b3086abda4970cdb91bd931d5a3b6f
+-------------------------------------------------------
+Filename: affected_files.csv
+Size: 276 bytes
+SHA-256: 85275cc01992aa1fe79915a130c0edddceddba2b246beef8d94301c0fca1bc9b
+-------------------------------------------------------
+Filename: server_events.csv
+Size: 483 bytes
+SHA-256: b09629c2473e005b9ae87a4db05e42438378f69ba0440d879ca8a0e5bbd9631c
+-------------------------------------------------------
+
+Note: These hashes establish a baseline for the prepared academic simulation files. They do not prove the authenticity of real-world evidence.
